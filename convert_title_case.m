@@ -1,5 +1,5 @@
 clear;
-filename = 'LAMPPapers.bib';
+filename = 'AllRefs.bib';
 skipSet = {'the', 'and', 'nor', 'or', 'yet', 'so', 'a', 'amid', 'an', 'apud', 'as', 'at', 'atop', 'but', 'by', 'down', 'for', 'from', 'in', 'into', 'like', 'mid', 'near', 'next', 'of', 'off', 'on', 'onto', 'out', 'over', 'pace', 'past', 'per', 'plus', 'pro', 'qua', 'sans', 'save', 'than', 'till', 'to', 'unto', 'up', 'upon', 'via', 'vice', 'vs.', 'with'};
 % fid = fopen(filename, 'r');
 % %data = readmatrix(filename,'OutputType','string','Delimiter','=','Whitespace','','FileType', 'text')
