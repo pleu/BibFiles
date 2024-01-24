@@ -1,3 +1,8 @@
 .DS_Store
 AllRefs (original).bib
 AllRefsnew.bib
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/BibFiles.iml
